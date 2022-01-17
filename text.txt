@@ -1,0 +1,1092 @@
+Array
+(
+    [0] => Array
+        (
+            [player] => Array
+                (
+                    [player] => Player Object
+                        (
+                            [id] => 851
+                            [name] => Tanzil
+                            [cards_in_hand] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => heart
+                                                    [code] => J
+                                                    [weight] => 11
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => club
+                                                    [code] => 9
+                                                    [weight] => 9
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => heart
+                                                    [code] => 10
+                                                    [weight] => 10
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => heart
+                                                    [code] => 6
+                                                    [weight] => 6
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => heart
+                                                    [code] => 7
+                                                    [weight] => 7
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [5] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => diamond
+                                                    [code] => 4
+                                                    [weight] => 4
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [6] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => club
+                                                    [code] => 2
+                                                    [weight] => 2
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [7] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => club
+                                                    [code] => K
+                                                    [weight] => 13
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [8] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => diamond
+                                                    [code] => 9
+                                                    [weight] => 9
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [9] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => spade
+                                                    [code] => A
+                                                    [weight] => 14
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [10] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => spade
+                                                    [code] => Q
+                                                    [weight] => 12
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [11] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => diamond
+                                                    [code] => 7
+                                                    [weight] => 7
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [12] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => club
+                                                    [code] => 8
+                                                    [weight] => 8
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                )
+
+                            [score] => 0
+                        )
+
+                    [call] => -1
+                    [won] => -1
+                    [score] => 0
+                )
+
+            [call] => -1
+            [won] => -1
+            [score] => 0
+        )
+
+    [1] => Array
+        (
+            [player] => Array
+                (
+                    [player] => Player Object
+                        (
+                            [id] => 852
+                            [name] => Jamil
+                            [cards_in_hand] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => heart
+                                                    [code] => 9
+                                                    [weight] => 9
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => club
+                                                    [code] => 6
+                                                    [weight] => 6
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => heart
+                                                    [code] => 2
+                                                    [weight] => 2
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => club
+                                                    [code] => 4
+                                                    [weight] => 4
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => diamond
+                                                    [code] => 3
+                                                    [weight] => 3
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [5] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => spade
+                                                    [code] => K
+                                                    [weight] => 13
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [6] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => club
+                                                    [code] => A
+                                                    [weight] => 14
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [7] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => spade
+                                                    [code] => 7
+                                                    [weight] => 7
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [8] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => club
+                                                    [code] => 10
+                                                    [weight] => 10
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [9] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => club
+                                                    [code] => 3
+                                                    [weight] => 3
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [10] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => diamond
+                                                    [code] => 8
+                                                    [weight] => 8
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [11] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => heart
+                                                    [code] => A
+                                                    [weight] => 14
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [12] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => diamond
+                                                    [code] => 10
+                                                    [weight] => 10
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                )
+
+                            [score] => 0
+                        )
+
+                    [call] => -1
+                    [won] => -1
+                    [score] => 0
+                )
+
+            [call] => -1
+            [won] => -1
+            [score] => 0
+        )
+
+    [2] => Array
+        (
+            [player] => Array
+                (
+                    [player] => Player Object
+                        (
+                            [id] => 853
+                            [name] => Sadik
+                            [cards_in_hand] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => spade
+                                                    [code] => 9
+                                                    [weight] => 9
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => spade
+                                                    [code] => 8
+                                                    [weight] => 8
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => diamond
+                                                    [code] => 5
+                                                    [weight] => 5
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => spade
+                                                    [code] => 5
+                                                    [weight] => 5
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => diamond
+                                                    [code] => Q
+                                                    [weight] => 12
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [5] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => diamond
+                                                    [code] => 2
+                                                    [weight] => 2
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [6] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => diamond
+                                                    [code] => 6
+                                                    [weight] => 6
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [7] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => spade
+                                                    [code] => J
+                                                    [weight] => 11
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [8] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => heart
+                                                    [code] => Q
+                                                    [weight] => 12
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [9] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => spade
+                                                    [code] => 6
+                                                    [weight] => 6
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [10] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => spade
+                                                    [code] => 4
+                                                    [weight] => 4
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [11] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => heart
+                                                    [code] => 4
+                                                    [weight] => 4
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [12] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => club
+                                                    [code] => 5
+                                                    [weight] => 5
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                )
+
+                            [score] => 0
+                        )
+
+                    [call] => -1
+                    [won] => -1
+                    [score] => 0
+                )
+
+            [call] => -1
+            [won] => -1
+            [score] => 0
+        )
+
+    [3] => Array
+        (
+            [player] => Array
+                (
+                    [player] => Player Object
+                        (
+                            [id] => 850
+                            [name] => Imu
+                            [cards_in_hand] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => heart
+                                                    [code] => 5
+                                                    [weight] => 5
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => club
+                                                    [code] => 7
+                                                    [weight] => 7
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => club
+                                                    [code] => J
+                                                    [weight] => 11
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => heart
+                                                    [code] => K
+                                                    [weight] => 13
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => heart
+                                                    [code] => 8
+                                                    [weight] => 8
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [5] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => diamond
+                                                    [code] => A
+                                                    [weight] => 14
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [6] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => club
+                                                    [code] => Q
+                                                    [weight] => 12
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [7] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => diamond
+                                                    [code] => J
+                                                    [weight] => 11
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [8] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => spade
+                                                    [code] => 10
+                                                    [weight] => 10
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [9] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => spade
+                                                    [code] => 3
+                                                    [weight] => 3
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [10] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => spade
+                                                    [code] => 2
+                                                    [weight] => 2
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [11] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => heart
+                                                    [code] => 3
+                                                    [weight] => 3
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                    [12] => Array
+                                        (
+                                            [card] => Card Object
+                                                (
+                                                    [suit] => diamond
+                                                    [code] => K
+                                                    [weight] => 13
+                                                )
+
+                                            [exists] => 
+                                        )
+
+                                )
+
+                            [score] => 0
+                        )
+
+                    [call] => -1
+                    [won] => -1
+                    [score] => 0
+                )
+
+            [call] => -1
+            [won] => -1
+            [score] => 0
+        )
+
+)
+Array
+(
+    [player] => Array
+        (
+            [player] => Player Object
+                (
+                    [id] => 851
+                    [name] => Tanzil
+                    [cards_in_hand] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [card] => Card Object
+                                        (
+                                            [suit] => heart
+                                            [code] => J
+                                            [weight] => 11
+                                        )
+
+                                    [exists] => 
+                                )
+
+                            [1] => Array
+                                (
+                                    [card] => Card Object
+                                        (
+                                            [suit] => club
+                                            [code] => 9
+                                            [weight] => 9
+                                        )
+
+                                    [exists] => 
+                                )
+
+                            [2] => Array
+                                (
+                                    [card] => Card Object
+                                        (
+                                            [suit] => heart
+                                            [code] => 10
+                                            [weight] => 10
+                                        )
+
+                                    [exists] => 
+                                )
+
+                            [3] => Array
+                                (
+                                    [card] => Card Object
+                                        (
+                                            [suit] => heart
+                                            [code] => 6
+                                            [weight] => 6
+                                        )
+
+                                    [exists] => 
+                                )
+
+                            [4] => Array
+                                (
+                                    [card] => Card Object
+                                        (
+                                            [suit] => heart
+                                            [code] => 7
+                                            [weight] => 7
+                                        )
+
+                                    [exists] => 
+                                )
+
+                            [5] => Array
+                                (
+                                    [card] => Card Object
+                                        (
+                                            [suit] => diamond
+                                            [code] => 4
+                                            [weight] => 4
+                                        )
+
+                                    [exists] => 
+                                )
+
+                            [6] => Array
+                                (
+                                    [card] => Card Object
+                                        (
+                                            [suit] => club
+                                            [code] => 2
+                                            [weight] => 2
+                                        )
+
+                                    [exists] => 
+                                )
+
+                            [7] => Array
+                                (
+                                    [card] => Card Object
+                                        (
+                                            [suit] => club
+                                            [code] => K
+                                            [weight] => 13
+                                        )
+
+                                    [exists] => 
+                                )
+
+                            [8] => Array
+                                (
+                                    [card] => Card Object
+                                        (
+                                            [suit] => diamond
+                                            [code] => 9
+                                            [weight] => 9
+                                        )
+
+                                    [exists] => 
+                                )
+
+                            [9] => Array
+                                (
+                                    [card] => Card Object
+                                        (
+                                            [suit] => spade
+                                            [code] => A
+                                            [weight] => 14
+                                        )
+
+                                    [exists] => 
+                                )
+
+                            [10] => Array
+                                (
+                                    [card] => Card Object
+                                        (
+                                            [suit] => spade
+                                            [code] => Q
+                                            [weight] => 12
+                                        )
+
+                                    [exists] => 
+                                )
+
+                            [11] => Array
+                                (
+                                    [card] => Card Object
+                                        (
+                                            [suit] => diamond
+                                            [code] => 7
+                                            [weight] => 7
+                                        )
+
+                                    [exists] => 
+                                )
+
+                            [12] => Array
+                                (
+                                    [card] => Card Object
+                                        (
+                                            [suit] => club
+                                            [code] => 8
+                                            [weight] => 8
+                                        )
+
+                                    [exists] => 
+                                )
+
+                        )
+
+                    [score] => 0
+                )
+
+            [call] => -1
+            [won] => -1
+            [score] => 0
+        )
+
+    [call] => -1
+    [won] => -1
+    [score] => 0
+)
+Array
+(
+    [player] => Player Object
+        (
+            [id] => 851
+            [name] => Tanzil
+            [cards_in_hand] => Array
+                (
+                    [0] => Array
+                        (
+                            [card] => Card Object
+                                (
+                                    [suit] => heart
+                                    [code] => J
+                                    [weight] => 11
+                                )
+
+                            [exists] => 
+                        )
+
+                    [1] => Array
+                        (
+                            [card] => Card Object
+                                (
+                                    [suit] => club
+                                    [code] => 9
+                                    [weight] => 9
+                                )
+
+                            [exists] => 
+                        )
+
+                    [2] => Array
+                        (
+                            [card] => Card Object
+                                (
+                                    [suit] => heart
+                                    [code] => 10
+                                    [weight] => 10
+                                )
+
+                            [exists] => 
+                        )
+
+                    [3] => Array
+                        (
+                            [card] => Card Object
+                                (
+                                    [suit] => heart
+                                    [code] => 6
+                                    [weight] => 6
+                                )
+
+                            [exists] => 
+                        )
+
+                    [4] => Array
+                        (
+                            [card] => Card Object
+                                (
+                                    [suit] => heart
+                                    [code] => 7
+                                    [weight] => 7
+                                )
+
+                            [exists] => 
+                        )
+
+                    [5] => Array
+                        (
+                            [card] => Card Object
+                                (
+                                    [suit] => diamond
+                                    [code] => 4
+                                    [weight] => 4
+                                )
+
+                            [exists] => 
+                        )
+
+                    [6] => Array
+                        (
+                            [card] => Card Object
+                                (
+                                    [suit] => club
+                                    [code] => 2
+                                    [weight] => 2
+                                )
+
+                            [exists] => 
+                        )
+
+                    [7] => Array
+                        (
+                            [card] => Card Object
+                                (
+                                    [suit] => club
+                                    [code] => K
+                                    [weight] => 13
+                                )
+
+                            [exists] => 
+                        )
+
+                    [8] => Array
+                        (
+                            [card] => Card Object
+                                (
+                                    [suit] => diamond
+                                    [code] => 9
+                                    [weight] => 9
+                                )
+
+                            [exists] => 
+                        )
+
+                    [9] => Array
+                        (
+                            [card] => Card Object
+                                (
+                                    [suit] => spade
+                                    [code] => A
+                                    [weight] => 14
+                                )
+
+                            [exists] => 
+                        )
+
+                    [10] => Array
+                        (
+                            [card] => Card Object
+                                (
+                                    [suit] => spade
+                                    [code] => Q
+                                    [weight] => 12
+                                )
+
+                            [exists] => 
+                        )
+
+                    [11] => Array
+                        (
+                            [card] => Card Object
+                                (
+                                    [suit] => diamond
+                                    [code] => 7
+                                    [weight] => 7
+                                )
+
+                            [exists] => 
+                        )
+
+                    [12] => Array
+                        (
+                            [card] => Card Object
+                                (
+                                    [suit] => club
+                                    [code] => 8
+                                    [weight] => 8
+                                )
+
+                            [exists] => 
+                        )
+
+                )
+
+            [score] => 0
+        )
+
+    [call] => -1
+    [won] => -1
+    [score] => 0
+)
+<br />
+<b>Fatal error</b>:  Uncaught Error: Call to a member function give_card() on array in C:\xampp\htdocs\my_ideas\Cards\classes.php:534
+Stack trace:
+#0 C:\xampp\htdocs\my_ideas\Cards\classes.php(714): Round-&gt;serve_cards()
+#1 C:\xampp\htdocs\my_ideas\Cards\classes.php(690): CallBridge-&gt;__round_start()
+#2 C:\xampp\htdocs\my_ideas\Cards\functions.php(472): CallBridge-&gt;new_round()
+#3 C:\xampp\htdocs\my_ideas\Cards\functions.php(502): play('850-G1', '853', Object(Card))
+#4 C:\xampp\htdocs\my_ideas\Cards\game_processor.php(31): validate_card_play('850-G1', '853', 'spade_J')
+#5 {main}
+  thrown in <b>C:\xampp\htdocs\my_ideas\Cards\classes.php</b> on line <b>534</b><br />
+
+name, id, review_class(reject/accept), title, abstruct, peer_reiview, recommendation_score, confidence,

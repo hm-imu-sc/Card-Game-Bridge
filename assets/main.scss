@@ -1,0 +1,691 @@
+
+.project {
+
+    // img {
+    //     height: 70px;
+    //     width: 50px;
+    // }
+
+    .heading {
+        .heading_section {
+            h1 {
+                text-align: center;
+                font-size: 70px;
+                font-weight: bold;
+                margin: 20px 0;
+            }
+        }
+
+        hr {
+            margin: 30px auto;
+            border: 3px solid aqua;
+            border-radius: 2px;
+            width: 350px;
+        }        
+    }
+
+    .game_sessions {
+        width: 50%;
+        margin: 0 auto;
+
+        h1 {
+            text-align: center;
+            font-size: 30px;
+        }
+
+        button {
+            display: block;
+            margin: 15px auto;
+
+            padding: 10px;
+            border: 3px solid aqua;
+            border-radius: 5px;
+            width: 300px;
+
+            text-align: center;
+
+            cursor: pointer;
+
+            transition: 300ms;
+
+            &:hover {
+                background-color: rgba(0, 255, 255, 0.151);
+                font-weight: bold;
+            }
+        }
+
+        #logout_btn {
+            width: 150px;
+            padding: 5px;
+
+            margin-bottom: 30px;
+        }
+    }
+
+    .login_section {
+        width: 550px;
+        margin: 30px auto;
+        padding: 10px;
+        border: 1px solid aqua;
+        border-radius: 3px;
+
+        .alert_section {
+            height: 30px;
+            display: block;
+            text-align: center;
+
+            span {
+                color: red;
+                font-size: 20px;
+                font-weight: bold;
+                vertical-align: middle;
+
+                i {
+                    color: red;
+                }
+            }
+
+            .alert_close {
+                cursor: pointer;
+                i {
+                    &:hover {
+                        text-shadow: 0px 0px 15px red;
+                    }   
+
+                    &:active {
+                        font-size: 23px;
+                    }
+                }
+            }
+        }
+
+        .id, .passcode {
+            // border: 1px solid red;
+            width: 530px;
+            margin: 10px 10px;
+            
+            label {
+                display: block;
+                font-size: 23px;
+                margin-left: 10px;
+                margin-bottom: 5px;
+            }
+
+            input {
+                width: 100%;
+                height: 30px;
+                border: 1px solid rgb(14, 58, 58);
+                border-radius: 2px;
+                padding-left: 5px;
+                font-size: 22px;
+
+                &:focus {
+                    outline: none;
+                    border: 1px solid aqua;
+                }   
+
+                &:hover {
+                    border: 1px solid aqua;
+                    box-shadow: 0 0 10px 0px aqua;
+                }
+            }
+        }
+        
+        button {
+            width: 537px;
+            height: 30px;
+            margin: 10px 10px;
+
+            border: 1px solid rgb(14, 58, 58);
+            border-radius: 4px;
+
+            text-align: center;
+            font-size: 23px;
+
+            &:hover {
+                border: 1px solid aqua;
+                box-shadow: 0 0 10px 0px aqua;
+            }
+
+            &:active {
+                font-size: 21px;
+            }
+        }
+    }
+
+    .game_section {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+
+        div {
+            margin: 0;
+        }
+
+        .vr {
+            // margin: 0 50px;
+            margin-top: 185px;
+
+            width: 0;
+            height: 650px;
+            border: 2px solid aqua;
+        }
+
+        .player_section {
+            margin-top: 135px;
+
+            width: 500px;
+            height: 750px;
+
+            // border: 2px solid aqua;
+            text-align: center;
+
+            overflow: hidden;
+
+            .name {
+                font-weight: bold;
+            }
+
+            button {
+                cursor: pointer;
+            }
+
+            #logout_btn {
+                border: 2px solid aqua;
+                border-radius: 5px;
+                width: 150px;
+                font-size: 20px;
+                height: 30px;
+                text-align: center;
+
+                &:hover {
+                    box-shadow: 0 0 10px 1px cyan;
+                    font-weight: bold;
+                }
+
+                &:active {
+                    font-size: 19px;
+                }
+            }
+
+            .card_section {
+                width: 500px;
+                height: 93%;
+                margin-top: 20px;
+                // border: 2px solid aqua;
+                // border-top: 0;
+
+                .button_section {
+
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: center;
+
+                    button {
+                        border: 2px solid aqua;
+                        font-size: 20px;
+                        height: 30px;
+                        text-align: center;          
+                        
+                        &:hover {
+                            font-weight: bold;
+                        }
+            
+                        &:active {
+                            font-size: 19px;
+                        }
+                    }
+        
+                    #cards_to_play { 
+                        width: 50%;
+                        border: 2px solid aqua;;
+                        border-bottom: 0; 
+                        border-right: 0; 
+                        font-weight: bold;
+                        border-top-left-radius: 10px;
+                    }
+        
+                    #cards_owned {
+                        width: 50%;
+                        border-right: 0;
+                        border-top: 0;
+                        border-bottom-left-radius: 10px;
+                    }
+                }
+
+                .cards_in_hand, .cards_owned {
+                    width: 496px;
+                    height: 92%;
+                    border: 2px solid aqua;
+                    border-top: 0;
+                    padding-top: 20px;
+                    display: flex;
+                    flex-direction: row;
+                    flex-wrap: wrap;
+                    overflow: auto;
+                    justify-content: center;
+                    border-bottom-left-radius: 5px;
+                    border-bottom-right-radius: 5px;
+                }
+
+                .cards_in_hand {
+                    .card_hearts, .card_clubs, .card_diamonds, .card_spades {
+                        margin: 0 5px;
+                        width: 100px;
+                        display: flex;
+                        flex-direction: column;
+                        flex-wrap: wrap;
+                        // border: 1px solid red;
+
+                        img {
+                            cursor: pointer;
+                            margin: 5px 0;
+                            width: 100px;
+                            height: 140px;
+                            border-radius: 5px;
+                        }
+                    }
+                }
+
+                .cards_owned {
+                    display: none;
+
+                    .ready_section {
+                        width: 100%;
+                        #ready_btn {
+                            display: block;
+                            border: 3px solid gray;
+                            border-radius: 10px;
+                            width: 150px;
+                            height: 70px;
+                            margin: 20px auto;
+
+                            h1 {
+                                text-align: center;
+                                font-weight: bold;
+                                color: gray;
+                                font-size: 30px;
+                            }
+                        }
+                    }
+                    
+                    .call_section {
+
+                        // border: 1px solid aqua;
+
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: center;
+                        
+                        font-size: 25px;
+                        font-weight: bold;
+
+                        margin: 40px 0;
+
+                        input {
+                            width: 60%;
+                            margin: 0 20px;
+                        }
+
+                        #range_val {
+                            border: 2px solid aqua;
+                            border-radius: 5px;
+                            width: 50px;
+                            font-size: 20px;
+                            font-weight: bold;
+                            text-align: center;
+                        }
+
+                        #call {
+                            -webkit-appearance: none;  
+                            margin-top: 12px;
+                            appearance: none;
+                            background: rgba(0, 255, 255, 0.671); ; 
+                            height: 5px;
+                            border-radius: 3px;
+                            outline: none; 
+                            opacity: 0.8; 
+                            -webkit-transition: .2s; 
+                            transition: opacity .2s;
+
+                            &::-webkit-slider-thumb {
+                                -webkit-appearance: none; 
+                                appearance: none;
+                                width: 7px; 
+                                height: 20px; 
+                                border-radius: 3px;
+                                background: aqua; 
+                                cursor: pointer; 
+                            }
+
+                            &:hover {
+                                opacity: 1; 
+                            }
+                        }
+                    }
+                
+                    .owned_card_heading{
+                        margin-left: 12px;
+                        margin-bottom: 20px;
+                        font-weight: bold;
+                    }
+
+                    .owned_card_section {
+                        // border: 1px solid red;
+                        height: 390px;
+                        display: flex;
+                        flex-direction: column;
+                        overflow: auto;
+                    
+                        .owned_card_set {
+                            display: flex;
+                            flex-direction: row;
+                            margin: 10px 12px;
+
+                            img {
+                                height: 154px;
+                                width: 110px;
+                                border-radius: 3px;
+                                margin-right: 10px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        .board_section {
+            .heading_section {
+                h1 {
+                    text-align: center;
+                    font-size: 70px;
+                    font-weight: bold;
+                    margin: 20px 0;
+                }
+            }
+        
+            hr {
+                margin: 30px auto;
+                border: 3px solid aqua;
+                border-radius: 2px;
+                width: 350px;
+            }
+        
+            .playing_table {
+                height: 702px;
+                width: 600px;
+                // border: 3px solid aqua;
+                // border-radius: 25px;
+                margin: 0 auto;
+                display: flex;
+                flex-direction: column;
+                overflow: hidden;
+        
+                .row {
+                    height: 33%;
+                    width: 100%;
+                    // border: 2px solid aqua;
+        
+                    display: flex;
+                    flex-direction: row;
+        
+                    justify-content: space-around;
+                    
+                    #assistant_section {
+                        width: 200px;
+                        
+                        #discard_round_btn {
+
+                            display: block;
+                            cursor: pointer;
+                            width: 170px;
+                            font-size: 17px;
+                            font-weight: bold;
+                            text-align: center;
+                            border: 2px solid red;
+                            border-radius: 10px;
+                            margin: 95px auto 0;
+                            color: red;
+                            padding-top: 10px;
+                            padding-bottom: 10px;
+
+                            display: none;
+
+                            &:hover {
+                                transition: 300mx;
+                                background-color: red;
+                                color: black;
+                            }
+                        }
+                    }
+
+                    .table_card {
+        
+                        display: flex;
+                        flex-direction: column;
+                        height: 209px;
+                        width: 129px;
+        
+                        margin: 17px 0px;
+        
+                        .card {
+                            height: 184px;
+                            width: 100%;
+                            border: 2px solid aqua;
+                            border-top-left-radius: 5px;
+                            border-top-right-radius: 5px;
+                            overflow: hidden;
+                            margin: 0;
+        
+                            img {
+                                height: 175px;
+                                width: 125px;
+                                margin: 2px 2px;
+                                border-radius: 2px;
+                            }
+                        }
+        
+                        .player_name {
+                            border: 2px solid aqua;
+                            border-top: 0;
+                            border-bottom-left-radius: 5px;
+                            border-bottom-right-radius: 5px;
+                            margin: 0;
+                            width: 100%;
+                            height: 25px;
+        
+                            h1 {
+                                text-align: center;
+                                font-size: 20px;
+
+                                // span {
+                                //     color: dodgerblue;
+                                //     font-weight: bold;
+                                //     font-size: 20px;
+                                // }
+                            }
+
+                            h1[active_status="1"] {
+                                color: lime;
+                                font-weight: bold;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        .log_section {
+            margin-top: 135px;
+            width: 500px;
+            height: 750px;
+
+            .button_section {
+
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+
+                button {
+                    border: 2px solid aqua;
+                    font-size: 20px;
+                    height: 30px;
+                    text-align: center;          
+                    
+                    &:hover {
+                        font-weight: bold;
+                    }
+        
+                    &:active {
+                        font-size: 19px;
+                    }
+                }
+
+                #game_log {
+                    width: 50%;
+                    border: 2px solid aqua;;
+                    border-bottom: 0; 
+                    border-right: 0; 
+                    font-weight: bold;
+                    border-top-left-radius: 10px;
+                }
+
+                #chat {
+                    width: 50%;
+                    border-right: 0;
+                    border-top: 0;
+                    border-bottom-left-radius: 10px;
+                }
+
+
+            }
+
+            .game_log, .chat {
+                width: 496px;
+                height: 92%;
+                border: 2px solid aqua;
+                border-top: 0;
+                padding-top: 20px;
+                justify-content: center;
+                border-bottom-left-radius: 5px;
+                border-bottom-right-radius: 5px;
+            }
+
+            .game_log {
+
+                .current_round_heading, .previous_round_heading, .score_heading {
+                    font-size: 23px;
+                    margin-left: 10px;
+                    margin-bottom: 10px;
+                    margin-top: 0px;
+                }
+
+                .current_round_section {
+                    width: 95%;
+                    height: 175px;
+                    // border: 2px solid rgba(0, 255, 255, 0.384);
+                    border-radius: 5px;
+                    margin: 0 auto;
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-around;
+
+                    .player_log {
+                        border: 2px solid rgba(0, 255, 255, 0.384);
+                        border-radius: 3px;
+                        height: 154px;
+                        width: 110px;
+
+                        div {
+                            font-size: 20px;
+                        }
+
+                        hr {
+                            width: 40%;
+                            border: 1px solid aqua;
+                            border-radius: 1px;
+                            margin: 10px auto;
+                        }
+
+                        .name {
+                            margin-top: 5px;
+                            text-align: center;
+                            font-weight: bold;
+                            color: dodgerblue;
+                        }
+
+                        .call {
+                            font-size: 18px;
+                            margin-top: 10px;
+                            margin-bottom: 10px;
+                            margin-left: 5px;
+                            color: rgb(29, 202, 29);
+                        }
+                        
+                        .owned {
+                            font-size: 18px;
+                            margin-left: 5px;
+                            color: gold;
+                        }
+                    }
+                }
+
+                .total_score_section {
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: center;
+                    margin-bottom: 15px;
+
+                    .player_score {
+
+                        // width: 23%;
+                        width: 100px;
+                        height: 100px;
+                        border: 3px solid dodgerblue;
+                        border-radius: 50%;
+                        overflow: hidden;
+                        margin: 7px 7px;
+                        // border: 1px solid red;
+
+                        span {
+                            margin-top: 24px;
+                            display: block;
+                            text-align: center;
+                            color: dodgerblue;
+                            font-weight: bold;
+                            font-size: 25px;
+                        }
+
+                        .name {
+                            margin-top: 0px;
+                            color: yellow;
+                            font-size: 17px;
+                            font-weight: normal;
+                        }
+                    }
+                }
+
+                .previous_round_section {
+                    min-height: 200px;
+                    max-height: 267px;
+                    overflow: auto;
+
+                    .round_number {
+                        margin-left: 15px;
+                        font-size: 20px;
+                    }
+
+                    .round_section {
+                        @extend .current_round_section;
+                        height: 170px;
+                    }
+                }
+            }
+
+            .chat {
+                display: none;
+            }
+            // border: 2px solid aqua
+        }        
+    }
+}

@@ -1,0 +1,2272 @@
+{
+    "850-G3": {
+        "players": [
+            {
+            "id": "850",
+            "name": "Imu",
+            "cards_in_hand": [],
+            "score": 0
+        }, {
+            "id": "851",
+            "name": "Tanzil",
+            "cards_in_hand": [],
+            "score": 0
+        }, {
+            "id": "852",
+            "name": "Jamil",
+            "cards_in_hand": [],
+            "score": 0
+        }, {
+            "id": "853",
+            "name": "Sadik",
+            "cards_in_hand": [],
+            "score": 0
+        }],
+        "rounds": [{
+            "players": [{
+                "player": {
+                    "id": "850",
+                    "name": "Imu",
+                    "cards_in_hand": [{
+                        "card": {
+                            "suit": "diamond",
+                            "code": "Q",
+                            "weight": 12
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "3",
+                            "weight": 3
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "J",
+                            "weight": 11
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "J",
+                            "weight": 11
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "J",
+                            "weight": 11
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "K",
+                            "weight": 13
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "6",
+                            "weight": 6
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "7",
+                            "weight": 7
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "9",
+                            "weight": 9
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "K",
+                            "weight": 13
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "4",
+                            "weight": 4
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "7",
+                            "weight": 7
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "A",
+                            "weight": 14
+                        },
+                        "exists": false
+                    }],
+                    "score": 0
+                },
+                "call": -1,
+                "won": 6,
+                "score": 6
+            }, {
+                "player": {
+                    "id": "851",
+                    "name": "Tanzil",
+                    "cards_in_hand": [{
+                        "card": {
+                            "suit": "spade",
+                            "code": "Q",
+                            "weight": 12
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "2",
+                            "weight": 2
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "J",
+                            "weight": 11
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "5",
+                            "weight": 5
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "5",
+                            "weight": 5
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "2",
+                            "weight": 2
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "5",
+                            "weight": 5
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "3",
+                            "weight": 3
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "K",
+                            "weight": 13
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "10",
+                            "weight": 10
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "A",
+                            "weight": 14
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "Q",
+                            "weight": 12
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "9",
+                            "weight": 9
+                        },
+                        "exists": false
+                    }],
+                    "score": 0
+                },
+                "call": -1,
+                "won": 4,
+                "score": 4
+            }, {
+                "player": {
+                    "id": "852",
+                    "name": "Jamil",
+                    "cards_in_hand": [{
+                        "card": {
+                            "suit": "diamond",
+                            "code": "2",
+                            "weight": 2
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "5",
+                            "weight": 5
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "6",
+                            "weight": 6
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "8",
+                            "weight": 8
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "Q",
+                            "weight": 12
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "10",
+                            "weight": 10
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "K",
+                            "weight": 13
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "10",
+                            "weight": 10
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "4",
+                            "weight": 4
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "9",
+                            "weight": 9
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "3",
+                            "weight": 3
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "9",
+                            "weight": 9
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "8",
+                            "weight": 8
+                        },
+                        "exists": false
+                    }],
+                    "score": 0
+                },
+                "call": -1,
+                "won": 1,
+                "score": 1
+            }, {
+                "player": {
+                    "id": "853",
+                    "name": "Sadik",
+                    "cards_in_hand": [{
+                        "card": {
+                            "suit": "heart",
+                            "code": "A",
+                            "weight": 14
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "6",
+                            "weight": 6
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "7",
+                            "weight": 7
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "6",
+                            "weight": 6
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "8",
+                            "weight": 8
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "4",
+                            "weight": 4
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "3",
+                            "weight": 3
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "2",
+                            "weight": 2
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "4",
+                            "weight": 4
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "10",
+                            "weight": 10
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "A",
+                            "weight": 14
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "8",
+                            "weight": 8
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "7",
+                            "weight": 7
+                        },
+                        "exists": false
+                    }],
+                    "score": 0
+                },
+                "call": -1,
+                "won": 2,
+                "score": 2
+            }],
+            "all_cards": [
+                {
+                "suit": "diamond",
+                "code": "Q",
+                "weight": 12
+            }, {
+                "suit": "spade",
+                "code": "Q",
+                "weight": 12
+            }, {
+                "suit": "diamond",
+                "code": "2",
+                "weight": 2
+            }, {
+                "suit": "heart",
+                "code": "A",
+                "weight": 14
+            }, {
+                "suit": "spade",
+                "code": "3",
+                "weight": 3
+            }, {
+                "suit": "spade",
+                "code": "2",
+                "weight": 2
+            }, {
+                "suit": "spade",
+                "code": "5",
+                "weight": 5
+            }, {
+                "suit": "club",
+                "code": "6",
+                "weight": 6
+            }, {
+                "suit": "diamond",
+                "code": "J",
+                "weight": 11
+            }, {
+                "suit": "heart",
+                "code": "J",
+                "weight": 11
+            }, {
+                "suit": "heart",
+                "code": "6",
+                "weight": 6
+            }, {
+                "suit": "diamond",
+                "code": "7",
+                "weight": 7
+            }, {
+                "suit": "club",
+                "code": "J",
+                "weight": 11
+            }, {
+                "suit": "club",
+                "code": "5",
+                "weight": 5
+            }, {
+                "suit": "diamond",
+                "code": "8",
+                "weight": 8
+            }, {
+                "suit": "diamond",
+                "code": "6",
+                "weight": 6
+            }, {
+                "suit": "spade",
+                "code": "J",
+                "weight": 11
+            }, {
+                "suit": "diamond",
+                "code": "5",
+                "weight": 5
+            }, {
+                "suit": "club",
+                "code": "Q",
+                "weight": 12
+            }, {
+                "suit": "spade",
+                "code": "8",
+                "weight": 8
+            }, {
+                "suit": "heart",
+                "code": "K",
+                "weight": 13
+            }, {
+                "suit": "heart",
+                "code": "2",
+                "weight": 2
+            }, {
+                "suit": "spade",
+                "code": "10",
+                "weight": 10
+            }, {
+                "suit": "heart",
+                "code": "4",
+                "weight": 4
+            }, {
+                "suit": "spade",
+                "code": "6",
+                "weight": 6
+            }, {
+                "suit": "heart",
+                "code": "5",
+                "weight": 5
+            }, {
+                "suit": "diamond",
+                "code": "K",
+                "weight": 13
+            }, {
+                "suit": "club",
+                "code": "3",
+                "weight": 3
+            }, {
+                "suit": "spade",
+                "code": "7",
+                "weight": 7
+            }, {
+                "suit": "diamond",
+                "code": "3",
+                "weight": 3
+            }, {
+                "suit": "heart",
+                "code": "10",
+                "weight": 10
+            }, {
+                "suit": "club",
+                "code": "2",
+                "weight": 2
+            }, {
+                "suit": "club",
+                "code": "9",
+                "weight": 9
+            }, {
+                "suit": "spade",
+                "code": "K",
+                "weight": 13
+            }, {
+                "suit": "diamond",
+                "code": "4",
+                "weight": 4
+            }, {
+                "suit": "club",
+                "code": "4",
+                "weight": 4
+            }, {
+                "suit": "club",
+                "code": "K",
+                "weight": 13
+            }, {
+                "suit": "diamond",
+                "code": "10",
+                "weight": 10
+            }, {
+                "suit": "diamond",
+                "code": "9",
+                "weight": 9
+            }, {
+                "suit": "club",
+                "code": "10",
+                "weight": 10
+            }, {
+                "suit": "spade",
+                "code": "4",
+                "weight": 4
+            }, {
+                "suit": "diamond",
+                "code": "A",
+                "weight": 14
+            }, {
+                "suit": "heart",
+                "code": "3",
+                "weight": 3
+            }, {
+                "suit": "club",
+                "code": "A",
+                "weight": 14
+            }, {
+                "suit": "heart",
+                "code": "7",
+                "weight": 7
+            }, {
+                "suit": "heart",
+                "code": "Q",
+                "weight": 12
+            }, {
+                "suit": "heart",
+                "code": "9",
+                "weight": 9
+            }, {
+                "suit": "heart",
+                "code": "8",
+                "weight": 8
+            }, {
+                "suit": "spade",
+                "code": "A",
+                "weight": 14
+            }, {
+                "suit": "spade",
+                "code": "9",
+                "weight": 9
+            }, {
+                "suit": "club",
+                "code": "8",
+                "weight": 8
+            }, {
+                "suit": "club",
+                "code": "7",
+                "weight": 7
+            }],
+            "start_from": 0,
+            "cycles": [
+                {
+                "played_cards": [{
+                    "player": "850",
+                    "card": {
+                        "suit": "club",
+                        "code": "9",
+                        "weight": 9
+                    }
+                }, {
+                    "player": "851",
+                    "card": {
+                        "suit": "club",
+                        "code": "5",
+                        "weight": 5
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "club",
+                        "code": "8",
+                        "weight": 8
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "club",
+                        "code": "7",
+                        "weight": 7
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "850",
+                    "card": {
+                        "suit": "club",
+                        "code": "9",
+                        "weight": 9
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "850",
+                    "card": {
+                        "suit": "spade",
+                        "code": "A",
+                        "weight": 14
+                    }
+                }, {
+                    "player": "851",
+                    "card": {
+                        "suit": "spade",
+                        "code": "2",
+                        "weight": 2
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "spade",
+                        "code": "5",
+                        "weight": 5
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "spade",
+                        "code": "8",
+                        "weight": 8
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "850",
+                    "card": {
+                        "suit": "spade",
+                        "code": "A",
+                        "weight": 14
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "850",
+                    "card": {
+                        "suit": "spade",
+                        "code": "J",
+                        "weight": 11
+                    }
+                }, {
+                    "player": "851",
+                    "card": {
+                        "suit": "spade",
+                        "code": "Q",
+                        "weight": 12
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "spade",
+                        "code": "10",
+                        "weight": 10
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "club",
+                        "code": "3",
+                        "weight": 3
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "851",
+                    "card": {
+                        "suit": "spade",
+                        "code": "Q",
+                        "weight": 12
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "851",
+                    "card": {
+                        "suit": "spade",
+                        "code": "K",
+                        "weight": 13
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "2",
+                        "weight": 2
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "club",
+                        "code": "2",
+                        "weight": 2
+                    }
+                }, {
+                    "player": "850",
+                    "card": {
+                        "suit": "spade",
+                        "code": "3",
+                        "weight": 3
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "851",
+                    "card": {
+                        "suit": "spade",
+                        "code": "K",
+                        "weight": 13
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "851",
+                    "card": {
+                        "suit": "spade",
+                        "code": "9",
+                        "weight": 9
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "heart",
+                        "code": "3",
+                        "weight": 3
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "club",
+                        "code": "4",
+                        "weight": 4
+                    }
+                }, {
+                    "player": "850",
+                    "card": {
+                        "suit": "spade",
+                        "code": "4",
+                        "weight": 4
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "851",
+                    "card": {
+                        "suit": "spade",
+                        "code": "9",
+                        "weight": 9
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "851",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "A",
+                        "weight": 14
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "4",
+                        "weight": 4
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "6",
+                        "weight": 6
+                    }
+                }, {
+                    "player": "850",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "J",
+                        "weight": 11
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "851",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "A",
+                        "weight": 14
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "851",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "10",
+                        "weight": 10
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "K",
+                        "weight": 13
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "7",
+                        "weight": 7
+                    }
+                }, {
+                    "player": "850",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "Q",
+                        "weight": 12
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "852",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "K",
+                        "weight": 13
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "852",
+                    "card": {
+                        "suit": "club",
+                        "code": "Q",
+                        "weight": 12
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "club",
+                        "code": "A",
+                        "weight": 14
+                    }
+                }, {
+                    "player": "850",
+                    "card": {
+                        "suit": "club",
+                        "code": "J",
+                        "weight": 11
+                    }
+                }, {
+                    "player": "851",
+                    "card": {
+                        "suit": "heart",
+                        "code": "2",
+                        "weight": 2
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "853",
+                    "card": {
+                        "suit": "club",
+                        "code": "A",
+                        "weight": 14
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "853",
+                    "card": {
+                        "suit": "heart",
+                        "code": "A",
+                        "weight": 14
+                    }
+                }, {
+                    "player": "850",
+                    "card": {
+                        "suit": "heart",
+                        "code": "7",
+                        "weight": 7
+                    }
+                }, {
+                    "player": "851",
+                    "card": {
+                        "suit": "heart",
+                        "code": "5",
+                        "weight": 5
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "heart",
+                        "code": "6",
+                        "weight": 6
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "853",
+                    "card": {
+                        "suit": "heart",
+                        "code": "A",
+                        "weight": 14
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "853",
+                    "card": {
+                        "suit": "club",
+                        "code": "6",
+                        "weight": 6
+                    }
+                }, {
+                    "player": "850",
+                    "card": {
+                        "suit": "club",
+                        "code": "K",
+                        "weight": 13
+                    }
+                }, {
+                    "player": "851",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "3",
+                        "weight": 3
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "8",
+                        "weight": 8
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "850",
+                    "card": {
+                        "suit": "club",
+                        "code": "K",
+                        "weight": 13
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "850",
+                    "card": {
+                        "suit": "spade",
+                        "code": "6",
+                        "weight": 6
+                    }
+                }, {
+                    "player": "851",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "5",
+                        "weight": 5
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "9",
+                        "weight": 9
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "heart",
+                        "code": "4",
+                        "weight": 4
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "850",
+                    "card": {
+                        "suit": "spade",
+                        "code": "6",
+                        "weight": 6
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "850",
+                    "card": {
+                        "suit": "spade",
+                        "code": "7",
+                        "weight": 7
+                    }
+                }, {
+                    "player": "851",
+                    "card": {
+                        "suit": "heart",
+                        "code": "J",
+                        "weight": 11
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "heart",
+                        "code": "9",
+                        "weight": 9
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "club",
+                        "code": "10",
+                        "weight": 10
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "850",
+                    "card": {
+                        "suit": "spade",
+                        "code": "7",
+                        "weight": 7
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "850",
+                    "card": {
+                        "suit": "heart",
+                        "code": "K",
+                        "weight": 13
+                    }
+                }, {
+                    "player": "851",
+                    "card": {
+                        "suit": "heart",
+                        "code": "Q",
+                        "weight": 12
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "heart",
+                        "code": "10",
+                        "weight": 10
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "heart",
+                        "code": "8",
+                        "weight": 8
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "850",
+                    "card": {
+                        "suit": "heart",
+                        "code": "K",
+                        "weight": 13
+                    }
+                }
+            }],
+            "current_cycle": {
+                "played_cards": [],
+                "no_of_players": 4,
+                "winner": null
+            }
+        }],
+        "current_round": {
+            "players": [{
+                "player": {
+                    "id": "850",
+                    "name": "Imu",
+                    "cards_in_hand": [{
+                        "card": {
+                            "suit": "heart",
+                            "code": "K",
+                            "weight": 13
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "6",
+                            "weight": 6
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "2",
+                            "weight": 2
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "J",
+                            "weight": 11
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "8",
+                            "weight": 8
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "10",
+                            "weight": 10
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "5",
+                            "weight": 5
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "Q",
+                            "weight": 12
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "4",
+                            "weight": 4
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "J",
+                            "weight": 11
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "7",
+                            "weight": 7
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "Q",
+                            "weight": 12
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "A",
+                            "weight": 14
+                        },
+                        "exists": false
+                    }],
+                    "score": 0
+                },
+                "call": -1,
+                "won": 4,
+                "score": 0
+            }, {
+                "player": {
+                    "id": "851",
+                    "name": "Tanzil",
+                    "cards_in_hand": [{
+                        "card": {
+                            "suit": "heart",
+                            "code": "A",
+                            "weight": 14
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "4",
+                            "weight": 4
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "8",
+                            "weight": 8
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "7",
+                            "weight": 7
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "A",
+                            "weight": 14
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "3",
+                            "weight": 3
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "6",
+                            "weight": 6
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "4",
+                            "weight": 4
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "4",
+                            "weight": 4
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "5",
+                            "weight": 5
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "3",
+                            "weight": 3
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "9",
+                            "weight": 9
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "9",
+                            "weight": 9
+                        },
+                        "exists": false
+                    }],
+                    "score": 0
+                },
+                "call": -1,
+                "won": 2,
+                "score": 0
+            }, {
+                "player": {
+                    "id": "852",
+                    "name": "Jamil",
+                    "cards_in_hand": [{
+                        "card": {
+                            "suit": "diamond",
+                            "code": "2",
+                            "weight": 2
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "8",
+                            "weight": 8
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "7",
+                            "weight": 7
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "K",
+                            "weight": 13
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "Q",
+                            "weight": 12
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "5",
+                            "weight": 5
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "6",
+                            "weight": 6
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "6",
+                            "weight": 6
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "5",
+                            "weight": 5
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "A",
+                            "weight": 14
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "9",
+                            "weight": 9
+                        },
+                        "exists": true
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "3",
+                            "weight": 3
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "Q",
+                            "weight": 12
+                        },
+                        "exists": false
+                    }],
+                    "score": 0
+                },
+                "call": -1,
+                "won": 3,
+                "score": 0
+            }, {
+                "player": {
+                    "id": "853",
+                    "name": "Sadik",
+                    "cards_in_hand": [{
+                        "card": {
+                            "suit": "diamond",
+                            "code": "10",
+                            "weight": 10
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "J",
+                            "weight": 11
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "J",
+                            "weight": 11
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "7",
+                            "weight": 7
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "10",
+                            "weight": 10
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "2",
+                            "weight": 2
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "10",
+                            "weight": 10
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "3",
+                            "weight": 3
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "8",
+                            "weight": 8
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "club",
+                            "code": "2",
+                            "weight": 2
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "spade",
+                            "code": "K",
+                            "weight": 13
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "diamond",
+                            "code": "K",
+                            "weight": 13
+                        },
+                        "exists": false
+                    }, {
+                        "card": {
+                            "suit": "heart",
+                            "code": "9",
+                            "weight": 9
+                        },
+                        "exists": false
+                    }],
+                    "score": 0
+                },
+                "call": -1,
+                "won": 3,
+                "score": 3
+            }],
+            "all_cards": [
+                {
+                "suit": "heart",
+                "code": "K",
+                "weight": 13
+            }, {
+                "suit": "heart",
+                "code": "A",
+                "weight": 14
+            }, {
+                "suit": "diamond",
+                "code": "2",
+                "weight": 2
+            }, {
+                "suit": "diamond",
+                "code": "10",
+                "weight": 10
+            }, {
+                "suit": "diamond",
+                "code": "6",
+                "weight": 6
+            }, {
+                "suit": "club",
+                "code": "4",
+                "weight": 4
+            }, {
+                "suit": "club",
+                "code": "8",
+                "weight": 8
+            }, {
+                "suit": "heart",
+                "code": "J",
+                "weight": 11
+            }, {
+                "suit": "heart",
+                "code": "2",
+                "weight": 2
+            }, {
+                "suit": "spade",
+                "code": "8",
+                "weight": 8
+            }, {
+                "suit": "diamond",
+                "code": "7",
+                "weight": 7
+            }, {
+                "suit": "spade",
+                "code": "J",
+                "weight": 11
+            }, {
+                "suit": "diamond",
+                "code": "J",
+                "weight": 11
+            }, {
+                "suit": "club",
+                "code": "7",
+                "weight": 7
+            }, {
+                "suit": "club",
+                "code": "K",
+                "weight": 13
+            }, {
+                "suit": "spade",
+                "code": "7",
+                "weight": 7
+            }, {
+                "suit": "heart",
+                "code": "8",
+                "weight": 8
+            }, {
+                "suit": "diamond",
+                "code": "A",
+                "weight": 14
+            }, {
+                "suit": "spade",
+                "code": "Q",
+                "weight": 12
+            }, {
+                "suit": "club",
+                "code": "10",
+                "weight": 10
+            }, {
+                "suit": "spade",
+                "code": "10",
+                "weight": 10
+            }, {
+                "suit": "spade",
+                "code": "3",
+                "weight": 3
+            }, {
+                "suit": "club",
+                "code": "5",
+                "weight": 5
+            }, {
+                "suit": "spade",
+                "code": "2",
+                "weight": 2
+            }, {
+                "suit": "heart",
+                "code": "5",
+                "weight": 5
+            }, {
+                "suit": "club",
+                "code": "6",
+                "weight": 6
+            }, {
+                "suit": "spade",
+                "code": "6",
+                "weight": 6
+            }, {
+                "suit": "heart",
+                "code": "10",
+                "weight": 10
+            }, {
+                "suit": "heart",
+                "code": "Q",
+                "weight": 12
+            }, {
+                "suit": "heart",
+                "code": "4",
+                "weight": 4
+            }, {
+                "suit": "heart",
+                "code": "6",
+                "weight": 6
+            }, {
+                "suit": "diamond",
+                "code": "3",
+                "weight": 3
+            }, {
+                "suit": "spade",
+                "code": "4",
+                "weight": 4
+            }, {
+                "suit": "diamond",
+                "code": "4",
+                "weight": 4
+            }, {
+                "suit": "spade",
+                "code": "5",
+                "weight": 5
+            }, {
+                "suit": "diamond",
+                "code": "8",
+                "weight": 8
+            }, {
+                "suit": "club",
+                "code": "J",
+                "weight": 11
+            }, {
+                "suit": "diamond",
+                "code": "5",
+                "weight": 5
+            }, {
+                "suit": "club",
+                "code": "A",
+                "weight": 14
+            }, {
+                "suit": "club",
+                "code": "2",
+                "weight": 2
+            }, {
+                "suit": "heart",
+                "code": "7",
+                "weight": 7
+            }, {
+                "suit": "club",
+                "code": "3",
+                "weight": 3
+            }, {
+                "suit": "club",
+                "code": "9",
+                "weight": 9
+            }, {
+                "suit": "spade",
+                "code": "K",
+                "weight": 13
+            }, {
+                "suit": "diamond",
+                "code": "Q",
+                "weight": 12
+            }, {
+                "suit": "diamond",
+                "code": "9",
+                "weight": 9
+            }, {
+                "suit": "heart",
+                "code": "3",
+                "weight": 3
+            }, {
+                "suit": "diamond",
+                "code": "K",
+                "weight": 13
+            }, {
+                "suit": "spade",
+                "code": "A",
+                "weight": 14
+            }, {
+                "suit": "spade",
+                "code": "9",
+                "weight": 9
+            }, {
+                "suit": "club",
+                "code": "Q",
+                "weight": 12
+            }, {
+                "suit": "heart",
+                "code": "9",
+                "weight": 9
+            }],
+            "start_from": 1,
+            "cycles": [
+                {
+                "played_cards": [{
+                    "player": "851",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "A",
+                        "weight": 14
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "7",
+                        "weight": 7
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "10",
+                        "weight": 10
+                    }
+                }, {
+                    "player": "850",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "6",
+                        "weight": 6
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "851",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "A",
+                        "weight": 14
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "851",
+                    "card": {
+                        "suit": "heart",
+                        "code": "A",
+                        "weight": 14
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "heart",
+                        "code": "3",
+                        "weight": 3
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "heart",
+                        "code": "9",
+                        "weight": 9
+                    }
+                }, {
+                    "player": "850",
+                    "card": {
+                        "suit": "heart",
+                        "code": "8",
+                        "weight": 8
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "851",
+                    "card": {
+                        "suit": "heart",
+                        "code": "A",
+                        "weight": 14
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "851",
+                    "card": {
+                        "suit": "heart",
+                        "code": "4",
+                        "weight": 4
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "heart",
+                        "code": "6",
+                        "weight": 6
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "heart",
+                        "code": "10",
+                        "weight": 10
+                    }
+                }, {
+                    "player": "850",
+                    "card": {
+                        "suit": "heart",
+                        "code": "Q",
+                        "weight": 12
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "850",
+                    "card": {
+                        "suit": "heart",
+                        "code": "Q",
+                        "weight": 12
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "850",
+                    "card": {
+                        "suit": "heart",
+                        "code": "K",
+                        "weight": 13
+                    }
+                }, {
+                    "player": "851",
+                    "card": {
+                        "suit": "spade",
+                        "code": "3",
+                        "weight": 3
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "spade",
+                        "code": "5",
+                        "weight": 5
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "heart",
+                        "code": "J",
+                        "weight": 11
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "852",
+                    "card": {
+                        "suit": "spade",
+                        "code": "5",
+                        "weight": 5
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "852",
+                    "card": {
+                        "suit": "club",
+                        "code": "A",
+                        "weight": 14
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "club",
+                        "code": "2",
+                        "weight": 2
+                    }
+                }, {
+                    "player": "850",
+                    "card": {
+                        "suit": "club",
+                        "code": "J",
+                        "weight": 11
+                    }
+                }, {
+                    "player": "851",
+                    "card": {
+                        "suit": "club",
+                        "code": "3",
+                        "weight": 3
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "852",
+                    "card": {
+                        "suit": "club",
+                        "code": "A",
+                        "weight": 14
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "852",
+                    "card": {
+                        "suit": "club",
+                        "code": "K",
+                        "weight": 13
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "club",
+                        "code": "10",
+                        "weight": 10
+                    }
+                }, {
+                    "player": "850",
+                    "card": {
+                        "suit": "spade",
+                        "code": "4",
+                        "weight": 4
+                    }
+                }, {
+                    "player": "851",
+                    "card": {
+                        "suit": "club",
+                        "code": "4",
+                        "weight": 4
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "850",
+                    "card": {
+                        "suit": "spade",
+                        "code": "4",
+                        "weight": 4
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "850",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "J",
+                        "weight": 11
+                    }
+                }, {
+                    "player": "851",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "4",
+                        "weight": 4
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "2",
+                        "weight": 2
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "K",
+                        "weight": 13
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "853",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "K",
+                        "weight": 13
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "853",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "3",
+                        "weight": 3
+                    }
+                }, {
+                    "player": "850",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "Q",
+                        "weight": 12
+                    }
+                }, {
+                    "player": "851",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "5",
+                        "weight": 5
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "spade",
+                        "code": "6",
+                        "weight": 6
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "852",
+                    "card": {
+                        "suit": "spade",
+                        "code": "6",
+                        "weight": 6
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "852",
+                    "card": {
+                        "suit": "club",
+                        "code": "Q",
+                        "weight": 12
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "spade",
+                        "code": "7",
+                        "weight": 7
+                    }
+                }, {
+                    "player": "850",
+                    "card": {
+                        "suit": "spade",
+                        "code": "10",
+                        "weight": 10
+                    }
+                }, {
+                    "player": "851",
+                    "card": {
+                        "suit": "club",
+                        "code": "6",
+                        "weight": 6
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "850",
+                    "card": {
+                        "suit": "spade",
+                        "code": "10",
+                        "weight": 10
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "850",
+                    "card": {
+                        "suit": "heart",
+                        "code": "2",
+                        "weight": 2
+                    }
+                }, {
+                    "player": "851",
+                    "card": {
+                        "suit": "spade",
+                        "code": "8",
+                        "weight": 8
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "spade",
+                        "code": "Q",
+                        "weight": 12
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "spade",
+                        "code": "K",
+                        "weight": 13
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "853",
+                    "card": {
+                        "suit": "spade",
+                        "code": "K",
+                        "weight": 13
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "853",
+                    "card": {
+                        "suit": "spade",
+                        "code": "J",
+                        "weight": 11
+                    }
+                }, {
+                    "player": "850",
+                    "card": {
+                        "suit": "spade",
+                        "code": "A",
+                        "weight": 14
+                    }
+                }, {
+                    "player": "851",
+                    "card": {
+                        "suit": "spade",
+                        "code": "9",
+                        "weight": 9
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "club",
+                        "code": "5",
+                        "weight": 5
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "850",
+                    "card": {
+                        "suit": "spade",
+                        "code": "A",
+                        "weight": 14
+                    }
+                }
+            }, {
+                "played_cards": [{
+                    "player": "850",
+                    "card": {
+                        "suit": "heart",
+                        "code": "5",
+                        "weight": 5
+                    }
+                }, {
+                    "player": "851",
+                    "card": {
+                        "suit": "club",
+                        "code": "7",
+                        "weight": 7
+                    }
+                }, {
+                    "player": "852",
+                    "card": {
+                        "suit": "club",
+                        "code": "8",
+                        "weight": 8
+                    }
+                }, {
+                    "player": "853",
+                    "card": {
+                        "suit": "spade",
+                        "code": "2",
+                        "weight": 2
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": {
+                    "player": "853",
+                    "card": {
+                        "suit": "spade",
+                        "code": "2",
+                        "weight": 2
+                    }
+                }
+            }],
+            "current_cycle": {
+                "played_cards": [{
+                    "player": "853",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "8",
+                        "weight": 8
+                    }
+                }, {
+                    "player": "850",
+                    "card": {
+                        "suit": "heart",
+                        "code": "7",
+                        "weight": 7
+                    }
+                }, {
+                    "player": "851",
+                    "card": {
+                        "suit": "diamond",
+                        "code": "9",
+                        "weight": 9
+                    }
+                }],
+                "no_of_players": 4,
+                "winner": null
+            }
+        }
+    }
+}
